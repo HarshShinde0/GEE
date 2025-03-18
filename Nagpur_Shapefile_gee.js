@@ -1,3 +1,5 @@
+#Link - https://code.earthengine.google.com/f10649c8fd41f868229788124b40d9ee #
+
 // Load administrative boundary dataset (GADM Level 2)
 var gadm = ee.FeatureCollection("FAO/GAUL/2015/level2");
 
